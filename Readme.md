@@ -160,6 +160,7 @@ python -m unittest test_app.py
 
 希望本文对您理解和应用单元测试在Web开发中的重要性有所帮助。如果您有任何问题，请随时提问。
 
+[博客地址](https://blog.csdn.net/qq_42751010/article/details/135764772)
+
 参考资料：
 - [Flask Documentation](https://flask.palletsprojects.com/)
-- [博客地址](https://blog.csdn.net/qq_42751010)
